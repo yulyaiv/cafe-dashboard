@@ -29,9 +29,13 @@
 ## Содержимое проекта
 
 cafe-dashboard/
+
 ├── sales_data.xlsx # исходные данные по продажам
+
 ├── cafe_dashboard.pbix # Power BI файл с визуализациями
+
 ├── report_screenshots/ # скриншоты дашборда
+
 └── README.md # описание проекта
 
 
