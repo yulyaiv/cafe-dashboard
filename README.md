@@ -30,7 +30,9 @@
 
 cafe-dashboard/
 
-├── sales_data.xlsx # исходные данные по продажам
+├── Клиенты.txt # исходные данные
+
+├── Продажи.txt #  исходные данные
 
 ├── cafe_dashboard.pbix # Power BI файл с визуализациями
 
