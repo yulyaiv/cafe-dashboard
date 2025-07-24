@@ -32,7 +32,7 @@ cafe-dashboard/
 
 
 
-├── Исходные данные по ссылке()
+├── Исходные данные по ссылке(https://drive.google.com/drive/folders/1y9Lb97Y0mZW52i4FZXu0uVSuC8jGT2Nt?usp=sharing)
 
 ├── Диплом.pbix # Power BI файл с визуализациями
 
